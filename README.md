@@ -1,6 +1,6 @@
 # TODO-List
 
-This is a todo list application generated with the help of javascript and bootstrap. In upcoming 2-3 days I will be adding some new features along with I'll be adding some styling too.
+This is a todo list application generated with the help of javascript and bootstrap. In upcoming 2-3 days I will be adding some new features along with I'll be adding some styling too.  
 
 Demo Image <br>
 
